@@ -1,0 +1,529 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 980 Ti (ID=0x17c8)
+    Vendor:   NVIDIA
+    VRAM:     6102 MB
+    Driver:   21.21.13.7609
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\ultimate discgolf\UDG\UDG_build_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\ultimate discgolf\UDG\UDG_build_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\ultimate discgolf\UDG\UDG_build_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\ultimate discgolf\UDG\UDG_build_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\ultimate discgolf\UDG\UDG_build_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\ultimate discgolf\UDG\UDG_build_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\ultimate discgolf\UDG\UDG_build_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\ultimate discgolf\UDG\UDG_build_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\ultimate discgolf\UDG\UDG_build_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\ultimate discgolf\UDG\UDG_build_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: D:\ultimate discgolf\UDG\UDG_build_Data\Managed\UnityEngine.VR.dll (this message is harmless)
+Loading D:\ultimate discgolf\UDG\UDG_build_Data\Managed\UnityEngine.VR.dll into Unity Child Domain
+Platform assembly: D:\ultimate discgolf\UDG\UDG_build_Data\Managed\ProBuilderCore-Unity5.dll (this message is harmless)
+Loading D:\ultimate discgolf\UDG\UDG_build_Data\Managed\ProBuilderCore-Unity5.dll into Unity Child Domain
+Platform assembly: D:\ultimate discgolf\UDG\UDG_build_Data\Managed\ProBuilderMeshOps-Unity5.dll (this message is harmless)
+Loading D:\ultimate discgolf\UDG\UDG_build_Data\Managed\ProBuilderMeshOps-Unity5.dll into Unity Child Domain
+Platform assembly: D:\ultimate discgolf\UDG\UDG_build_Data\Managed\KDTree.dll (this message is harmless)
+Loading D:\ultimate discgolf\UDG\UDG_build_Data\Managed\KDTree.dll into Unity Child Domain
+Platform assembly: D:\ultimate discgolf\UDG\UDG_build_Data\Managed\pb_Stl.dll (this message is harmless)
+Loading D:\ultimate discgolf\UDG\UDG_build_Data\Managed\pb_Stl.dll into Unity Child Domain
+Platform assembly: D:\ultimate discgolf\UDG\UDG_build_Data\Managed\Triangle.dll (this message is harmless)
+Loading D:\ultimate discgolf\UDG\UDG_build_Data\Managed\Triangle.dll into Unity Child Domain
+- Completed reload, in  0.028 seconds
+Platform assembly: D:\ultimate discgolf\UDG\UDG_build_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\ultimate discgolf\UDG\UDG_build_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at -1920,0
+<RI> Initialized touch support.
+ovr_Create(&m_session, &luid) failed: ovr_Create: No HMD attached.
+Failed to create Oculus Session.Compositor failed to initialize.ovr_Create(&m_session, &luid) failed: ovr_Create: No HMD attached.
+Failed to create Oculus Session.Compositor failed to initialize.OpenVR initialized!
+ 
+(Filename:  Line: 381)
+
+[VRDevice] Successfully created device OpenVR.
+UnloadTime: 0.427567 ms
+Connected to lighthouse:LHR-CDA8AC53
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 19d0 -> priority: 1 
+  Thread -> id: 11f0 -> priority: 1 
+A
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+K
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object 'Level1_Plate(Clone)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Level1_Plate') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.235637 ms
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 4719.
+Total: 0.892393 ms (FindLiveObjects: 0.183586 ms CreateObjectMapping: 0.063098 ms MarkObjects: 0.613257 ms  DeleteObjects: 0.032150 ms)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object 'Level1_Plate(Clone)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Level1_Plate') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.946740 ms
+
+Unloading 54 unused Assets to reduce memory usage. Loaded Objects now: 1011.
+Total: 0.503586 ms (FindLiveObjects: 0.091643 ms CreateObjectMapping: 0.013521 ms MarkObjects: 0.302272 ms  DeleteObjects: 0.095549 ms)
+
+Play audio function
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+triggered!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+triggered!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+triggered!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+triggered!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+triggered!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+triggered!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+triggered!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+triggered!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+getting player nameAK
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Logging :AK:16
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object 'Level1_Plate(Clone)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Level1_Plate') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.675154 ms
+
+Unloading 85 unused Assets to reduce memory usage. Loaded Objects now: 4752.
+Total: 6.268388 ms (FindLiveObjects: 0.224750 ms CreateObjectMapping: 0.038159 ms MarkObjects: 0.522515 ms  DeleteObjects: 5.482361 ms)
+
+The referenced script on this Behaviour (Game Object 'Level1_Plate(Clone)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Level1_Plate') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.751435 ms
+
+Unloading 54 unused Assets to reduce memory usage. Loaded Objects now: 1239.
+Total: 0.578703 ms (FindLiveObjects: 0.082629 ms CreateObjectMapping: 0.015023 ms MarkObjects: 0.368074 ms  DeleteObjects: 0.112675 ms)
+
+Play audio function
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object 'Level1_Plate(Clone)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Level1_Plate') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.693182 ms
+
+Unloading 54 unused Assets to reduce memory usage. Loaded Objects now: 4776.
+Total: 11.486337 ms (FindLiveObjects: 0.220544 ms CreateObjectMapping: 0.032450 ms MarkObjects: 0.536337 ms  DeleteObjects: 10.696403 ms)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.856599 ms
+
+Unloading 59 unused Assets to reduce memory usage. Loaded Objects now: 1088.
+Total: 0.661933 ms (FindLiveObjects: 0.112375 ms CreateObjectMapping: 0.032150 ms MarkObjects: 0.390910 ms  DeleteObjects: 0.126197 ms)
+
+Play audio function
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object 'Level1_Plate(Clone)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Level1_Plate') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.675154 ms
+
+Unloading 55 unused Assets to reduce memory usage. Loaded Objects now: 4804.
+Total: 7.849157 ms (FindLiveObjects: 0.228356 ms CreateObjectMapping: 0.033652 ms MarkObjects: 0.575098 ms  DeleteObjects: 7.011749 ms)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[SteamVR_TrackedController] () [0x00000] in <filename unknown>:0 
+  at UDG_LevelSelector.get__left () [0x00000] in <filename unknown>:0 
+  at UDG_LevelSelector.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 6.467900 ms
+
+Unloading 54 unused Assets to reduce memory usage. Loaded Objects now: 1275.
+Total: 0.734046 ms (FindLiveObjects: 0.094948 ms CreateObjectMapping: 0.016826 ms MarkObjects: 0.541145 ms  DeleteObjects: 0.080826 ms)
+
+Play audio function
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object 'Level1_Plate(Clone)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Level1_Plate') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.536938 ms
+
+Unloading 52 unused Assets to reduce memory usage. Loaded Objects now: 4825.
+Total: 7.207955 ms (FindLiveObjects: 0.220243 ms CreateObjectMapping: 0.035455 ms MarkObjects: 0.606947 ms  DeleteObjects: 6.345008 ms)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.612017 ms
+
+Unloading 53 unused Assets to reduce memory usage. Loaded Objects now: 1790.
+Total: 0.620468 ms (FindLiveObjects: 0.117182 ms CreateObjectMapping: 0.021633 ms MarkObjects: 0.409539 ms  DeleteObjects: 0.071511 ms)
+
+Play audio function
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object 'Level1_Plate(Clone)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Level1_Plate') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.913125 ms
+
+Unloading 55 unused Assets to reduce memory usage. Loaded Objects now: 4852.
+Total: 6.571261 ms (FindLiveObjects: 0.201013 ms CreateObjectMapping: 0.035455 ms MarkObjects: 0.596731 ms  DeleteObjects: 5.737760 ms)
+
+4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[SteamVR_TrackedController] () [0x00000] in <filename unknown>:0 
+  at UDG_LevelSelector.get__left () [0x00000] in <filename unknown>:0 
+  at UDG_LevelSelector.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 2.778138 ms
+
+Unloading 54 unused Assets to reduce memory usage. Loaded Objects now: 1301.
+Total: 0.664337 ms (FindLiveObjects: 0.087136 ms CreateObjectMapping: 0.031248 ms MarkObjects: 0.467530 ms  DeleteObjects: 0.077521 ms)
+
+Play audio function
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object 'Level1_Plate(Clone)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Level1_Plate') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.513802 ms
+
+Unloading 52 unused Assets to reduce memory usage. Loaded Objects now: 4873.
+Total: 6.193271 ms (FindLiveObjects: 0.208225 ms CreateObjectMapping: 0.035455 ms MarkObjects: 0.628882 ms  DeleteObjects: 5.320408 ms)
+
+5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.818439 ms
+
+Unloading 42 unused Assets to reduce memory usage. Loaded Objects now: 2794.
+Total: 0.775210 ms (FindLiveObjects: 0.107567 ms CreateObjectMapping: 0.022535 ms MarkObjects: 0.549558 ms  DeleteObjects: 0.095248 ms)
+
+Play audio function
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object 'Level1_Plate(Clone)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Level1_Plate') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.080186 ms
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 4897.
+Total: 7.981965 ms (FindLiveObjects: 0.246685 ms CreateObjectMapping: 0.035455 ms MarkObjects: 0.845520 ms  DeleteObjects: 6.853702 ms)
+
+6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[SteamVR_TrackedController] () [0x00000] in <filename unknown>:0 
+  at UDG_LevelSelector.get__left () [0x00000] in <filename unknown>:0 
+  at UDG_LevelSelector.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 3.052466 ms
+
+Unloading 41 unused Assets to reduce memory usage. Loaded Objects now: 2089.
+Total: 0.781820 ms (FindLiveObjects: 0.134309 ms CreateObjectMapping: 0.049577 ms MarkObjects: 0.539943 ms  DeleteObjects: 0.057389 ms)
+
+Play audio function
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object 'Level1_Plate(Clone)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Level1_Plate') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.973520 ms
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 4921.
+Total: 6.767167 ms (FindLiveObjects: 0.189596 ms CreateObjectMapping: 0.032751 ms MarkObjects: 0.674252 ms  DeleteObjects: 5.870267 ms)
+
+5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[SteamVR_TrackedController] () [0x00000] in <filename unknown>:0 
+  at UDG_LevelSelector.get__left () [0x00000] in <filename unknown>:0 
+  at UDG_LevelSelector.OnDisable () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 2.820804 ms
+
+Unloading 54 unused Assets to reduce memory usage. Loaded Objects now: 1395.
+Total: 0.685971 ms (FindLiveObjects: 0.055586 ms CreateObjectMapping: 0.024938 ms MarkObjects: 0.516506 ms  DeleteObjects: 0.088638 ms)
+
+Play audio function
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+getting player nameAK
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Logging :AK:26
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object 'Level1_Plate(Clone)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Level1_Plate') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.488863 ms
+
+Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 4945.
+Total: 7.016256 ms (FindLiveObjects: 0.184488 ms CreateObjectMapping: 0.041464 ms MarkObjects: 0.720825 ms  DeleteObjects: 6.068877 ms)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.686533 ms
+
+Unloading 56 unused Assets to reduce memory usage. Loaded Objects now: 1377.
+Total: 0.908017 ms (FindLiveObjects: 0.071812 ms CreateObjectMapping: 0.023737 ms MarkObjects: 0.710008 ms  DeleteObjects: 0.101859 ms)
+
+Quitting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OpenVR Shutdown
+ 
+(Filename:  Line: 815)
+
